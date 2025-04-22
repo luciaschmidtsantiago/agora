@@ -24,8 +24,8 @@ If you're part of the Ágora group and would like to collaborate on this reposit
 
 ## License Notice
 
-All materials are provided for academic and educational use only.  
-**Reuse, redistribution, or modification without permission is not allowed.**  
+All materials are provided for academic and educational use only.
+**Reuse, redistribution, or modification without permission is not allowed.**
 See [LICENSE](./LICENSE.md) for details.
 
 ---
