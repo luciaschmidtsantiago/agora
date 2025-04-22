@@ -12,6 +12,12 @@ This repository gathers materials presented during the sessions, including slide
 - `basics-dl/` – Introduction to Deep Learning (CNNs, RNNs, Transformers...)
 - `genai/` – Generative AI topics (GANs, VAEs, Diffusion Models...)
 
+## 🗓️ Schedule
+
+Below is the current Ágora calendar for the April–July 2025 cycle:
+
+![Ágora Calendar](schedule.png)
+
 ## License Notice
 
 All materials are provided for academic and educational use only.  
