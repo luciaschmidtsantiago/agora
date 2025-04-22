@@ -1,4 +1,4 @@
-Copyright (c) 2025 Ágora Group, Departamento de Teoría de la Señal y Comunicaciónes, Universidad Carlos III de Madrid
+Copyright (c) 2025 Ágora Group, Departamento de Teoría de la Señal y Comunicaciones, Universidad Carlos III de Madrid
 
 All content in this repository (including notebooks, code, slides, and other materials) is intended for educational and academic use only.
 
