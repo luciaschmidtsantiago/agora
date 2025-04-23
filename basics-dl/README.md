@@ -46,7 +46,7 @@ In this notebook, we cover:
   - **Public notebooks** ❌ do not have internet access (so you cannot download pretrained models inside the notebook).
   - **Private notebooks** ✅ have internet access (allowing you to download weights, libraries, etc.) — but require **phone verification** on your account.
 - If you are new to Kaggle, you can check out:  
-  👉 [Kaggle Documentation: How to use Notebooks](https://www.kaggle.com/
+  👉 [Kaggle Documentation: How to use Notebooks](https://www.kaggle.com/)
 
 
 ---
