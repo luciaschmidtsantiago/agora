@@ -62,5 +62,24 @@ Please cite this work as:
 - If you are new to Kaggle, you can check out:  
   👉 [Kaggle Documentation: How to use Notebooks](https://www.kaggle.com/)
 
+## RNNs & LSTMs Session Notebook
+This session’s notebook explores Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) networks — two fundamental architectures for sequence modeling, commonly used in tasks like time series forecasting and natural language processing. The accompanying slides for this session are also included in this repository.
+
+### 📓 Notebook Contents
+
+The RNNs_&_LSTMs.ipynb notebook includes:
+- Introduction to sequential data and RNNs
+- Implementing RNNs using PyTorch
+- **Applications:** Text classification and time series prediction.
+- Understanding LSTM networks for long-term dependencies.
+- Implementing LSTM in PyTorch for sequence modeling.
+- **Use cases:** Sentiment analysis and language modeling.
+  
+### 🛠️ Requirements
+
+Make sure the following dependencies are installed:
+```
+pip install numpy matplotlib torch
+```
 
 ---
