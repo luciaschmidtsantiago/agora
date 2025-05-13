@@ -16,7 +16,7 @@ This repository gathers materials presented during the sessions, including slide
 
 Below is the current Ágora calendar for the April–July 2025 cycle:
 
-![Ágora Calendar](schedule.png)
+![Ágora Calendar](https://github.com/user-attachments/assets/99ca78d2-95ca-45a9-a8b3-b660d4b85e64)
 
 ## Want to contribute?
 
