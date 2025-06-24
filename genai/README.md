@@ -10,4 +10,4 @@ Each session combines a brief theoretical introduction with hands-on experiments
 - Diffusion Models
 - Normalizing Flows
 
-Materials are organized by date and presenter.
+Materials are organized by date of the session.
